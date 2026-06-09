@@ -207,4 +207,7 @@ Cloud services (Firebase)
 
 It showcases how AI can be integrated into real-world applications with scalability, performance, and usability in mind.
 
+DEMO link
+https://drive.google.com/drive/folders/15-v636RbEzhzZq8ipsUgLVJpFlEw8SdJ?usp=sharing
+
 Made with ❤️ by Talha Shahzad
